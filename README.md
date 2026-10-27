@@ -61,17 +61,13 @@ asistencia/
 1. Clona el repositorio:
 
    ```bash
-   git clone URL_DEL_REPOSITORIO
+   git clone https://github.com/brando046/Asistencias.git
    ```
 
 2. Abre la carpeta del proyecto en tu IDE.
-
 3. Comprueba que los archivos Java de la carpeta `src` estén incluidos en el proyecto.
-
 4. Ejecuta la clase principal `AppAsistencia.java`.
-
 5. La aplicación se abrirá y permitirá registrar empleados y gestionar sus fichajes. Los datos se almacenan en `asistencia.dat`, según la configuración del proyecto.
-
 
 ## Autor
 
@@ -80,3 +76,4 @@ asistencia/
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 - **Portfolio:** [Portfolio personal](https://brando046.github.io/Portfolio-Brandon/)
+
